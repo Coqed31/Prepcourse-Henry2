@@ -1,2 +1,2 @@
-# Prepcourse-Henry2
-este es un repositorio de prueba
+Hola soy Facundo Daniel Birse, tengo 28 años, y estoy realizando la carrera de programador web, desde el punto mas ignorante del tema.
+
